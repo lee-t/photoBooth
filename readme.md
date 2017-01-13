@@ -19,7 +19,7 @@ sudo apt-get install python-tk python3-tk python-imaging-tk
 pip install Pillow
 ```
 
-4. run this command
+4.run this command
 ```
 python photo_booth.py -o output -p 1
 ```
